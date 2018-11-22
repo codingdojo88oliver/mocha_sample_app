@@ -1,9 +1,7 @@
 var FairnessApp = (function() {
 
-  function compare(a, b) {
-  	if(a == b) {
-  		return "Fair";
-  	}
+  function compare() {
+
   };
 
   return {
